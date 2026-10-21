@@ -17,7 +17,7 @@
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SudhanshuRanjan17)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sudhanshu-ranjan89/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sudhanshur anjan8986@gmail.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sudhanshuranjan8986@gmail.com)
 
 </div>
 
@@ -89,7 +89,7 @@ I'm interested in collaborating on projects related to Data Science, AI, analyti
 
 - **GitHub:** [Explore my repositories](https://github.com/SudhanshuRanjan17)
 - **LinkedIn:** [Connect with me](https://www.linkedin.com/in/sudhanshu-ranjan89/)
-- **Email:** [Contact me](mailto:sudhanshur anjan8986@gmail.com)
+- **Email:** [Contact me](mailto:sudhanshuranjan8986@gmail.com)
 
 ---
 
