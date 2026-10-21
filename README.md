@@ -1,6 +1,11 @@
- <div align="center">
 
-<img src="public/hero-bg.png" width="100%" alt="Portfolio technology background" />
+<div align="center">
+
+<img
+  src="./public/hero-bg.png"
+  alt="Portfolio technology background"
+  width="100%"
+/>
 
 # Sudhanshu Ranjan
 
@@ -8,10 +13,10 @@
 
 *Turning data into insights and ideas into intelligent solutions.*
 
-[![Portfolio](https://img.shields.io/badge/Explore-My_Portfolio-00C9A7?style=for-the-badge&logo=vercel&logoColor=white)](https://sudhanshur anjan17.github.io)
+[![My Portfolio](https://img.shields.io/badge/Explore-My_Portfolio-00C9A7?style=for-the-badge&logo=vercel&logoColor=white)](https://sudhanshuranjan89.github.io/)
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/SudhanshuRanjan17)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/sudhanshu-ranjan89)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SudhanshuRanjan17)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sudhanshu-ranjan89/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sudhanshur anjan8986@gmail.com)
 
 </div>
@@ -20,46 +25,50 @@
 
 ## 👋 About Me
 
-I'm a BCA Data Science student at Lovely Professional University, passionate about data analytics, machine learning, software development, and AI-powered solutions.
+I'm a Bachelor of Computer Applications (BCA) student specializing in Data Science at Lovely Professional University. I am passionate about data analytics, machine learning, software development, and building intelligent solutions to real-world problems.
 
-- 📊 Interested in Data Science, analytics, and machine learning.
-- 💻 Build projects using Python, R, C++, SQL, and JavaScript.
-- 🤖 Explore IoT automation and intelligent systems.
-- 🧠 Practice Data Structures and Algorithms.
-- 🚀 Focused on developing practical, real-world solutions.
+- 📊 Exploring Data Science, analytics, and machine learning.
+- 💻 Developing projects with Python, R, C++, SQL, and JavaScript.
+- 🤖 Building IoT prototypes and exploring automation.
+- 🧠 Practicing Data Structures and Algorithms.
+- 🚀 Learning continuously and turning ideas into practical projects.
 
 ## 🛠️ Technical Skills
 
 | Category | Technologies |
 |---|---|
-| Programming | Python, C, C++, Java, JavaScript, R |
-| Data Science | Pandas, NumPy, Data Analysis, Regression |
+| Programming | Python, C, C++, JavaScript, R |
+| Data Science | Pandas, NumPy, Regression Analysis, Data Analytics |
 | Database | SQL, MySQL |
 | Web Development | HTML, CSS, JavaScript |
-| Tools | Git, GitHub, Jupyter Notebook, RStudio, Excel |
+| Tools | Git, GitHub, Jupyter Notebook, RStudio, VS Code |
 | Core Concepts | DSA, OOP, Machine Learning, IoT |
 
 ## 🚀 Featured Projects
 
-### 1. Biometric Authentication-Based Payment System
-A proposed secure payment framework using face and iris authentication, with a focus on anti-spoofing and digital-payment security.
+### 1. IPL Data Analysis with R
 
-**Technologies:** Python, NumPy, Pandas, Security
-
-### 2. IPL Data Analysis with R
-Analyzed IPL datasets, explored player and team performance, and applied regression techniques to study statistical relationships.
+Analyzed IPL datasets to explore player and team performance and investigate statistical relationships using regression analysis.
 
 **Technologies:** R, dplyr, ggplot2, Regression Analysis
 
-### 3. Smart Waste Management System
-An IoT-based waste management prototype using sensors and actuators to support automated waste monitoring and segregation.
+### 2. Smart Waste Management System
 
-**Technologies:** Arduino, Sensors, Servo Motors, IoT
+An IoT-based prototype that uses sensors and actuators to monitor waste and support automated waste segregation.
 
-### 4. To-Do List Application
-A task management application built around a singly linked list, demonstrating CRUD operations and fundamental data structures.
+**Technologies:** Arduino, Ultrasonic Sensors, Servo Motors, IoT
 
-**Technologies:** HTML, CSS, JavaScript, Linked List
+### 3. To-Do List Application
+
+A task management application demonstrating linked-list operations and fundamental data structure concepts, with a web-based interface.
+
+**Technologies:** C++, Linked List, HTML, CSS, JavaScript
+
+### 4. Biometric Authentication-Based Payment System
+
+A proposed contactless payment concept exploring face and iris authentication, with a focus on security and user convenience.
+
+**Technologies:** AI Concepts, Biometrics, Security
 
 ## 🎓 Education
 
@@ -67,20 +76,20 @@ A task management application built around a singly linked list, demonstrating C
 
 Bachelor of Computer Applications (BCA) — Data Science
 
-## 🏆 Achievements & Learning
+## 📚 Current Learning Goals
 
-- Consistent LeetCode problem-solving practice.
-- Hands-on Data Science internship experience.
-- Practical projects in data analytics, IoT, and application development.
-- Continuous learning in programming and AI technologies.
+- Strengthening Python programming and problem-solving skills.
+- Improving data analysis and visualization techniques.
+- Learning machine learning fundamentals.
+- Building practical software and data-driven projects.
 
 ## 🤝 Let's Connect
 
-I'm interested in collaborating on projects involving Data Science, AI, analytics, and software development.
+I'm interested in collaborating on projects related to Data Science, AI, analytics, IoT, and software development.
 
 - **GitHub:** [Explore my repositories](https://github.com/SudhanshuRanjan17)
-- **LinkedIn:** [Connect with me](https://linkedin.com/in/sudhanshu-ranjan89)
-- **Email:** [Send me an email](mailto:sudhanshur anjan8986@gmail.com)
+- **LinkedIn:** [Connect with me](https://www.linkedin.com/in/sudhanshu-ranjan89/)
+- **Email:** [Contact me](mailto:sudhanshur anjan8986@gmail.com)
 
 ---
 
