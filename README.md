@@ -1,12 +1,6 @@
 
 <div align="center">
 
-<img
-  src="./public/hero-bg.png"
-  alt="Portfolio technology background"
-  width="100%"
-/>
-
 # Sudhanshu Ranjan
 
 ### Data Science Student | Aspiring Data Scientist | Developer
