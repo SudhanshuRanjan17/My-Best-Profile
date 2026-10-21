@@ -7,7 +7,7 @@
 
 *Turning data into insights and ideas into intelligent solutions.*
 
-[![My Portfolio](https://img.shields.io/badge/Explore-My_Portfolio-00C9A7?style=for-the-badge&logo=vercel&logoColor=white)](https://sudhanshuranjan89.github.io/)
+[![My Portfolio](https://img.shields.io/badge/Explore-My_Portfolio-00C9A7?style=for-the-badge&logo=vercel&logoColor=white)](https://e17xd85g7pd0-d.space-z.ai/)
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SudhanshuRanjan17)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sudhanshu-ranjan89/)
